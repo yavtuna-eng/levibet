@@ -1,3 +1,4 @@
+# Levibet - Gelistirici: yavtuna-eng
 # Sports Analytics MVP 🎯
 
 This repository contains the foundational MVP for a **Sports Analytics and Signal Dispatching Product**. The system uses a **Bayesian model** to evaluate team strengths, generates **feature snapshots**, runs prediction models, and dispatches high-confidence signals via **Telegram**.
